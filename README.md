@@ -8,8 +8,7 @@ My expertise lies in crafting cutting-edge solutions across Web Development, Sof
 
 ## Key Skills
 
-- 🖥️ **Programming Languages:** Python, JavaScript, PHP
-- 🛠️ **Frameworks:** Laravel, Django, Node.js
-- 🎨 **Frontend Technologies:** Bootstrap 5, React.js, Vue.js, HTML5 & CSS
+- 🖥️ **Programming Languages:** Python, JavaScript
+- 🛠️ **Frameworks:** Django, Node.js
+- 🎨 **Frontend Technologies:** Bootstrap 5, React.js, Vue.js, HTML5 & CSS, TailwindCSS
 - 📊 **Databases:** MySQL, Postgres, MongoDB
-- 📱 **Mobile Application Development:** React Native
